@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b69,100:8B5CF6&height=120&section=header"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Machine+Learning+Developer+%40+Mercado+Libre;Deep+Learning+%7C+Data+Engineering+%7C+MLOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Machine+Learning+Developer+%40+Mercado+Libre;Deep+Learning+%7C+Data+Engineering+%7C+MLOps)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-rodrigo-rojas-rodriguez/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianrojas.datascience@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Christian-Rojas-Rodriguez)
-[![Profile Views](https://komarev.com/ghpvc/?username=Christian-Rojas-Rodriguez&style=for-the-badge&color=1f6feb)](https://github.com/Christian-Rojas-Rodriguez)
+[![Profile Views](https://komarev.com/ghpvc/?username=Christian-Rojas-Rodriguez&style=for-the-badge&color=8B5CF6)](https://github.com/Christian-Rojas-Rodriguez)
 
 </div>
 
@@ -29,11 +29,25 @@ class ChristianRojas:
         self.certifications = ["Google Cloud Data Engineer (Black Belt)"]
         self.stack = ["Python", "PyTorch", "SQL", "AWS", "GCP", "BigQuery", "Docker"]
         self.location = "Buenos Aires, Argentina"
+
+    def daily_routine(self):
+        while not self.model.converged:
+            coffee = self.drink("mate")          # fuel
+            self.train(epochs=100)               # pray to the GPU gods
+            if self.loss == float('nan'):
+                self.blame("the data")           # it's never the code
+        return "ship it"                         # YOLO to production
 ```
 
 Data Scientist and ML Developer building **deep learning models at scale** for one of Latin America's largest tech companies. I bridge the gap between data engineering and machine learning — from designing ETL pipelines and cloud migrations to training neural networks in production.
 
 Previously worked on ML models for financial transaction analysis, cloud infrastructure with GCP/AWS, and data engineering pipelines with Snowflake and BigQuery.
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%90%8D+Why+do+Python+devs+need+glasses%3F+Because+they+can't+C;%F0%9F%94%A5+My+PyTorch+model+has+more+layers+than+my+lasagna;%F0%9F%A4%96+Training+loss%3A+0.001+%7C+Production+loss%3A+my+sanity;%F0%9F%8E%AF+It+works+on+my+machine+--+ships+Docker+container;%F0%9F%92%A1+model.eval()+doesn't+mean+it+evaluates+your+life+choices;%F0%9F%90%9B+99%25+of+debugging+is+a+missing+.to(device);%E2%98%95+Mate+%2B+GPU+%3D+peak+Argentine+ML+engineering)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -162,12 +176,12 @@ CLI tool to parse **Santander Rio VISA** credit card PDF statements and extract 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-Rojas-Rodriguez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Rojas-Rodriguez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-Rojas-Rodriguez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=A78BFA&text_color=c9d1d9&ring_color=8B5CF6" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Rojas-Rodriguez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Languages"/>
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Christian-Rojas-Rodriguez&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Christian-Rojas-Rodriguez&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280)](https://git.io/streak-stats)
 
 </div>
 
@@ -175,7 +189,7 @@ CLI tool to parse **Santander Rio VISA** credit card PDF statements and extract 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Christian-Rojas-Rodriguez&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github-profile-trophy.vercel.app/?username=Christian-Rojas-Rodriguez)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Christian-Rojas-Rodriguez&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github-profile-trophy.vercel.app/?username=Christian-Rojas-Rodriguez)
 
 </div>
 
@@ -187,4 +201,4 @@ CLI tool to parse **Santander Rio VISA** credit card PDF statements and extract 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b69,100:8B5CF6&height=120&section=footer"/>
